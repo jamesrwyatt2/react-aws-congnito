@@ -1,3 +1,10 @@
+
+
+npm install aws-amplify @aws-amplify/ui-react
+
+amplify pull --appId d15t8ygtwvvrgg --envName staging
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
